@@ -1,2 +1,2 @@
 # mypersonalpage
-A simple personal webpage to show my projects, and learnings
+A simple personal webpage to show my projects and learnings
